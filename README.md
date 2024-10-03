@@ -15,6 +15,7 @@ This repository contains a Streamlit-based application that allows users to uplo
 - HuggingFace Embeddings: Used to generate embeddings from PDF content.
 
 Set up environment variables:
+
 Create a `.env` file in the root directory of the project and add your HuggingFace and Groq API keys:
 
   ```bash
