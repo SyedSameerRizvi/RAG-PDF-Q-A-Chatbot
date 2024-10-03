@@ -28,6 +28,11 @@ Run the Streamlit app:
     streamlit run app.py
   ```
 
+Install the dependencies:
+  ```bash
+    pip install -r requirements.txt
+  ```
+
 ## Usage
 1. Open the app in your browser after running Streamlit.
 2. Enter your Groq API key when prompted.
